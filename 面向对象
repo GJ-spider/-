@@ -1,0 +1,15 @@
+对象 = 属性 + 方发
+  属性：描述静态特征
+  方法：描述动态特征
+例：（我们用Python描述一个帅哥的特征）
+  class Man: #在python中类名以大写字母开始
+    #属性
+    tall = 178
+    weigth = 130
+    #方法
+    def run(self):
+      print("他跑的很快"）
+    def jump(self)
+      print("他跳的很高")
+  注：身高、体重为静态特征。跑和跳为动态特征
+  
